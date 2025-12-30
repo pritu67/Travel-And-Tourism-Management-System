@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/46e4fca7-3896-4d71-934c-c1bce997c91a" /># Travel and Tourism Management System
 
 ## Overview
 The **Travel and Tourism Management System** is a Java Swing-based desktop application designed to streamline travel planning and management. This system provides a centralized platform for users to explore travel packages, book hotels, manage personal details, and make payments efficiently.
