@@ -56,7 +56,7 @@ The application uses the following tables in the `travelmanagementsystem` databa
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/pritu67/Travel-And-Tourism-Management-System.git
 
 2.Set up the MySQL database:
 
