@@ -78,6 +78,8 @@ The application uses the following tables in the `travelmanagementsystem` databa
 <img width="1093" height="735" alt="image" src="https://github.com/user-attachments/assets/9dd7ed6c-4329-4c6e-a99a-d7fd8a1c4966" />
 <img width="1077" height="721" alt="image" src="https://github.com/user-attachments/assets/01d22c6a-9989-4e32-b763-5f62cdf80819" />
 <img width="1166" height="770" alt="image" src="https://github.com/user-attachments/assets/4d3ef473-d3f4-42d2-8674-d9c7f682e767" />
+<img width="1276" height="676" alt="image" src="https://github.com/user-attachments/assets/b0af4fc4-c712-4100-93cd-2eac78d0e88e" />
+
 
 
 
