@@ -72,7 +72,6 @@ The application uses the following tables in the `travelmanagementsystem` databa
 
 
 8.Screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f6f2c1d0-f546-4c60-b4b1-fbc32e226242" />
 
 
  
