@@ -74,7 +74,7 @@ The application uses the following tables in the `travelmanagementsystem` databa
 
 8.Screenshots
 
-  
+  https://github.com/pritu67/Travel-And-Tourism-Management-System/blob/cd6ba5fe56a11740d3a33280e6709f120595540d/Screenshot%20(65).png
 
  
   
